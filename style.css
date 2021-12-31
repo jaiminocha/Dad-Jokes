@@ -1,0 +1,18 @@
+body {
+    font-family: "Raleway", sans-serif;
+    color: white;    
+    background-image: url('forest.jpeg');
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+#jokeElement{
+    margin: 5px;
+    padding: 5px;
+    font-size: 22px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
